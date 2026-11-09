@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand: #8B5CF6;
+  /* Фиолетовый (основной) */
+  --color-brand-light: #F3E8FF;
+  /* Светло-фиолетовый (фон) */
+  --color-brand-dark: #6D28D9;
+  /* Темно-фиолетовый (ховер) */
+  --color-dark: #1F2937;
+  /* Графитовый для текста */
+}
